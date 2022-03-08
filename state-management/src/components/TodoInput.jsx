@@ -14,7 +14,7 @@ export const TodoInput = ({addTodo}) =>{
             }} />
             <button onClick={()=>{
                 addTodo(text);
-            }} > Add Todo</button>
+            }} > Add groceries</button>
         </div>
     )
 }
