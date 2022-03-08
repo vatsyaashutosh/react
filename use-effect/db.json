@@ -1,0 +1,69 @@
+{
+  "groceries": [
+    {
+      "title": "carrot",
+      "purchased": false,
+      "id": 1
+    },
+    {
+      "title": "Tomato",
+      "purchased": false,
+      "id": 2
+    },
+    {
+      "title": "potato",
+      "purchased": false,
+      "id": 3
+    },
+    {
+      "title": "Oninos",
+      "purchased": false,
+      "id": 4
+    },
+    {
+      "title": "bringal",
+      "purchased": false,
+      "id": 5
+    },
+    {
+      "title": "apples",
+      "purchased": false,
+      "id": 6
+    },
+    {
+      "title": "mangoes",
+      "purchased": false,
+      "id": 7
+    },
+    {
+      "title": "bhkharwadi",
+      "purchased": false,
+      "id": 8
+    },
+    {
+      "title": "Kitkat",
+      "purchased": false,
+      "id": 9
+    },
+    {
+      "title": "oreo",
+      "purchased": false,
+      "id": 10
+    },
+    {
+      "title": "momos",
+      "purchased": false,
+      "id": 11
+    },
+    {
+      "title": "springRoll",
+      "purchased": false,
+      "id": 12
+    },
+    {
+      "title": "corn flakes",
+      "purchased": false,
+      "id": 13
+    }
+  ]
+}
